@@ -1,0 +1,6 @@
+(x, y) : 0, 0
+
+Printing Original Object:
+(x, y) : 12, 43
+Printing Copied Object:
+(x, y) : 5, 6
