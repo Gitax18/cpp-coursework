@@ -1,13 +1,15 @@
-Company ID: mcrsft-101
-Company Name: Microsoft corporate limited
-CEO: Bill Gates
-Net Profits: $ 123434200\-
-Loss: $ 1332\-
-Working on MS-Office 2024
-******************************
-Company ID: bsknnrbn-556
-Company Name: Basking & Robin pvt ltd
-CEO: David hoffmann
-Net Profits: $ 86333\-
-Loss: $ 231\-
-Now Red Velvet is more tastier than ever.
+Emp Type: Engineer
+Emp Name: gitanshu
+Emp Salary: 56000
+Emp Post: jr.Engineer
+*************************
+Emp Type: Manager
+Emp Name: vijay
+Emp Salary: 58000
+Emp Post: assc.Manager
+*************************
+Emp Type: Engineer
+Emp Name: surendra
+Emp Salary: 56000
+Emp Post: jr.Engineer
+*************************
