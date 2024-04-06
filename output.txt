@@ -1,15 +1,3 @@
-Emp Type: Engineer
-Emp Name: gitanshu
-Emp Salary: 56000
-Emp Post: jr.Engineer
-*************************
-Emp Type: Manager
-Emp Name: vijay
-Emp Salary: 58000
-Emp Post: assc.Manager
-*************************
-Emp Type: Engineer
-Emp Name: surendra
-Emp Salary: 56000
-Emp Post: jr.Engineer
-*************************
+(0, 0)
+(2, 5)
+8
